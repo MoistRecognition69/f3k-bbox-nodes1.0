@@ -1,7 +1,8 @@
 [project]
-name = "comfyui-bbox-legacy"
+name = "f3k-bbox-node1.0"
 description = "Bounding-box drawing canvas for the classic Nodes 1.0 frontend. Drop-in equivalent of the core Create Bounding Boxes node, for FLUX 3 Image (Klein) layout prompts and Ideogram."
 version = "1.0.0"
+license = { file = "LICENSE" }
 dependencies = []
 
 [project.urls]
