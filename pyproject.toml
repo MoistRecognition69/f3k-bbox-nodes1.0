@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-bbox-legacy"
+description = "Bounding-box drawing canvas for the classic Nodes 1.0 frontend. Drop-in equivalent of the core Create Bounding Boxes node, for FLUX 3 Image (Klein) layout prompts and Ideogram."
+version = "1.0.0"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/MoistRecognition69/f3k-bbox-nodes1.0"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "BBox Canvas for Nodes 1.0"
+Icon = ""
