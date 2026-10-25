@@ -8,6 +8,6 @@ dependencies = []
 Repository = "https://github.com/MoistRecognition69/f3k-bbox-nodes1.0"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "moistrecognition"
 DisplayName = "BBox Canvas for Nodes 1.0"
 Icon = ""
